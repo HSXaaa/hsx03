@@ -77,7 +77,7 @@
     <span><input name="" type="text" value="验证码" onclick="JavaScript:this.value=''"/></span><cite>520</cite> 
     </li> -->
     <li><input name="" type="submit" class="loginbtn" value="登录"  onclick="javascript:window.location='main.html'" />
-    <label><a href="reg/reg.html">注册</a></label><label><a href="#">忘记密码？</a></label></li>
+    <label><a href="reg/reg.html">注册</a></label><label><a href="#">忘记密码</a></label></li>
     </ul>
     </form>
     
