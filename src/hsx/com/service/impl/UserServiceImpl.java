@@ -3,8 +3,6 @@ package hsx.com.service.impl;
 import org.apache.log4j.Category;
 import org.apache.log4j.Logger;
 
-import com.sun.xml.internal.bind.v2.schemagen.xmlschema.List;
-
 import hsx.com.dao.UserDao;
 import hsx.com.dao.impl.UserDaoImpl;
 import hsx.com.pojo.User;

@@ -7,7 +7,6 @@ import java.util.ArrayList;
 
 import com.mysql.jdbc.Connection;
 import com.mysql.jdbc.PreparedStatement;
-import com.sun.xml.internal.bind.v2.schemagen.xmlschema.List;
 
 import hsx.com.dao.UserDao;
 import hsx.com.pojo.User;

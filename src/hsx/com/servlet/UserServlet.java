@@ -1,6 +1,7 @@
 package hsx.com.servlet;
 
 import java.io.IOException;
+
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -11,13 +12,9 @@ import javax.servlet.http.HttpSession;
 import org.apache.log4j.Category;
 import org.apache.log4j.Logger;
 
-import com.sun.xml.internal.bind.v2.schemagen.xmlschema.List;
-
 import hsx.com.pojo.User;
 import hsx.com.service.UserService;
 import hsx.com.service.impl.UserServiceImpl;
-import javafx.scene.control.Alert;
-import sun.management.counter.Variability;
 
 /**
  * Servlet重定向路径总结：

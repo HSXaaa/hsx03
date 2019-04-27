@@ -1,7 +1,5 @@
 package hsx.com.service;
 
-import com.sun.xml.internal.bind.v2.schemagen.xmlschema.List;
-
 import hsx.com.pojo.User;
 
 public interface UserService {
